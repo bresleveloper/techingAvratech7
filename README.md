@@ -19,3 +19,9 @@ bla bla
 * list item
 * list item
     * sub list imts
+
+
+[llink name](https://bresleveloper.github.io/techingAvratech7/index.html)
+
+
+[shuki html](https://bresleveloper.github.io/techingAvratech7/shuki.html)
