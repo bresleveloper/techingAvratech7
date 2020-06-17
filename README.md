@@ -1,5 +1,12 @@
 # hello h1
 
+HW
+
+1. make 5 repos
+2. each repo do 3 uploads (`git add .`, `git commit -m "comment`, `git push -u origin master`)
+3. add GHP (Git Hub Pages)
+4. add link in README.md for your html page
+
 ## h2
 
 ```code
