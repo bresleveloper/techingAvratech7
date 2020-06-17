@@ -18,4 +18,4 @@ bla bla
 
 * list item
 * list item
-    *sub list imts
+    * sub list imts
